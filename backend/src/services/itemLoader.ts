@@ -325,3 +325,26 @@ export function getCacheStatus() {
     },
   };
 }
+
+/**
+ * Getter functions for API routes
+ */
+export async function getSkins(): Promise<WeaponSkin[]> {
+  return loadSkins(true);
+}
+
+export async function getGloves(): Promise<Glove[]> {
+  return loadGloves(true);
+}
+
+export async function getAgents(): Promise<Agent[]> {
+  return loadAgents(true);
+}
+
+export async function getMusic(): Promise<MusicKit[]> {
+  return loadMusic(true);
+}
+
+export async function getPins(): Promise<Pin[]> {
+  return loadPins(true);
+}
