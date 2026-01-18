@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Genuine Pin",
+    "imageUrl": "https://example.com/pin_genuine.jpg",
+    "series": "Series 1"
+  },
+  {
+    "id": 2,
+    "name": "Victory Pin",
+    "imageUrl": "https://example.com/pin_victory.jpg",
+    "series": "Series 2"
+  }
+]

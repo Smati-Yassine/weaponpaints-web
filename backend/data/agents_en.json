@@ -1,0 +1,14 @@
+[
+  {
+    "id": "agent_1",
+    "name": "SAS | Operator",
+    "imageUrl": "https://example.com/agent_sas.jpg",
+    "team": "CT"
+  },
+  {
+    "id": "agent_2",
+    "name": "Phoenix | Soldier",
+    "imageUrl": "https://example.com/agent_phoenix.jpg",
+    "team": "T"
+  }
+]

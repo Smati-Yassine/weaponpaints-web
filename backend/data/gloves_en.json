@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "defindex": 5027,
+    "name": "Sport Gloves | Pandora's Box",
+    "imageUrl": "https://example.com/gloves_pandora.jpg"
+  },
+  {
+    "id": 2,
+    "defindex": 5028,
+    "name": "Driver Gloves | Crimson Weave",
+    "imageUrl": "https://example.com/gloves_crimson.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "paintId": 100,
+    "name": "AK-47 | Redline",
+    "imageUrl": "https://example.com/ak47_redline.jpg",
+    "rarity": "Classified",
+    "collection": "Phoenix Collection",
+    "weaponType": "rifle"
+  },
+  {
+    "id": 2,
+    "paintId": 101,
+    "name": "M4A4 | Asiimov",
+    "imageUrl": "https://example.com/m4a4_asiimov.jpg",
+    "rarity": "Covert",
+    "collection": "Operation Phoenix",
+    "weaponType": "rifle"
+  },
+  {
+    "id": 3,
+    "paintId": 102,
+    "name": "AWP | Dragon Lore",
+    "imageUrl": "https://example.com/awp_dragonlore.jpg",
+    "rarity": "Covert",
+    "collection": "Cobblestone Collection",
+    "weaponType": "sniper"
+  }
+]
